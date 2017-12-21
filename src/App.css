@@ -1,0 +1,31 @@
+.App{
+  padding-top: 30px;
+}
+
+.container {
+  height: 400px;
+  width: 600px;
+  background-color: #f2f3f4;
+  margin: 0 auto;
+  position: relative;
+}
+
+.player {
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  position: absolute;
+}
+
+.enemy {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+  position: absolute;
+}
+
+.score {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
